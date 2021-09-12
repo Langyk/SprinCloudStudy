@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66527a0c-1c34-4af3-9098-079b6d9e8846" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studycloud.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\DevelopEnvironment\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1y1WqAONrgf9y5pNkWLbFA6F6mq" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66527a0c-1c34-4af3-9098-079b6d9e8846" name="Default Changelist" comment="" />
+      <created>1631419764642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631419764642</updated>
+      <workItem from="1631419765756" duration="853000" />
+      <workItem from="1631420641919" duration="8081000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1450" height="219" key="GridCell.Tab.0.bottom" timestamp="1631442712567">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="219" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1631442712567" />
+    <state width="1450" height="219" key="GridCell.Tab.0.center" timestamp="1631442712567">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="219" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1631442712567" />
+    <state width="1450" height="219" key="GridCell.Tab.0.left" timestamp="1631442712567">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="219" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1631442712567" />
+    <state width="1450" height="219" key="GridCell.Tab.0.right" timestamp="1631442712567">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="219" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1631442712567" />
+    <state x="253" y="43" key="SettingsEditor" timestamp="1631442073928">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="253" y="43" key="SettingsEditor/0.0.1493.893@0.0.1493.893" timestamp="1631442073928" />
+    <state x="62" y="111" key="new project wizard" timestamp="1631438964706">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="62" y="111" key="new project wizard/0.0.1493.893@0.0.1493.893" timestamp="1631438964706" />
+    <state x="404" y="204" key="run.anything.popup" timestamp="1631439260998">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="404" y="204" key="run.anything.popup/0.0.1493.893@0.0.1493.893" timestamp="1631439260998" />
+  </component>
+</project>
