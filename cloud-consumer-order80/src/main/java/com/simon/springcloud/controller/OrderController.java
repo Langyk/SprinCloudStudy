@@ -1,7 +1,7 @@
 package com.simon.springcloud.controller;
 
-import com.simon.springcloud.entites.CommonResult;
-import com.simon.springcloud.entites.Payment;
+import com.simon.springcloud.entities.CommonResult;
+import com.simon.springcloud.entities.Payment;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
