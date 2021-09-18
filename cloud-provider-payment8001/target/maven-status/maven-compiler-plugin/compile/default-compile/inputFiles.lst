@@ -1,7 +1,5 @@
-D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-provider-payment8001\src\main\java\com\simon\springcloud\entities\Payment.java
 D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-provider-payment8001\src\main\java\com\simon\springcloud\PaymentMain8001.java
 D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-provider-payment8001\src\main\java\com\simon\springcloud\controller\PaymentController.java
-D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-provider-payment8001\src\main\java\com\simon\springcloud\entities\CommonResult.java
 D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-provider-payment8001\src\main\java\com\simon\springcloud\service\PaymentService.java
 D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-provider-payment8001\src\main\java\com\simon\springcloud\service\impl\PaymentServiceImpl.java
 D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-provider-payment8001\src\main\java\com\simon\springcloud\dao\PaymentDao.java
