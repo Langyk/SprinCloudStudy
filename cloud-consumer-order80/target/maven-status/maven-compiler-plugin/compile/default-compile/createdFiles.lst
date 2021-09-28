@@ -1,3 +1,4 @@
 com\simon\springcloud\MainApp80.class
+com\simon\myrule\MySelfRule.class
 com\simon\springcloud\controller\OrderController.class
 com\simon\springcloud\config\ApplicationContextConfig.class
