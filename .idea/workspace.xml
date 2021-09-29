@@ -23,18 +23,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66527a0c-1c34-4af3-9098-079b6d9e8846" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/simon/springcloud/lb/LoadBalancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/simon/springcloud/lb/MyLB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/cloud-consumer-feign-order80.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/simon/springcloud/OrderFeignMain80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/simon/springcloud/controller/OrderFeignController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/simon/springcloud/service/PaymentFeignService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/simon/springcloud/MainApp80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/simon/springcloud/MainApp80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/simon/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/simon/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/simon/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/simon/springcloud/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/simon/springcloud/MainApp80.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/simon/springcloud/MainApp80.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/simon/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/simon/springcloud/controller/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/cloud-consumer-order80-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/cloud-consumer-order80-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/simon/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/simon/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/simon/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/simon/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,16 +132,14 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaMain7001">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.OrderFeignMain80">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,6 +184,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-feign-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simon.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.OrderFeignMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OrderZK80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumerzk-order80" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.OrderZK80" />
@@ -211,26 +230,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentMain8006" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloud-providerconsul-payment8006" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.simon.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.PaymentMain8006" />
+    <configuration name="PaymentMain8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.PaymentMain8004" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.MainApp80" />
+        <item itemvalue="Spring Boot.OrderFeignMain80" />
         <item itemvalue="Spring Boot.PaymentMain8002" />
         <item itemvalue="Spring Boot.PaymentMain8001" />
+        <item itemvalue="Spring Boot.MainApp80" />
         <item itemvalue="Spring Boot.OrderConsulMain80" />
-        <item itemvalue="Spring Boot.PaymentMain8006" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +270,8 @@
       <workItem from="1632226410814" duration="7810000" />
       <workItem from="1632536181439" duration="19246000" />
       <workItem from="1632750152521" duration="5052000" />
-      <workItem from="1632833835921" duration="5754000" />
+      <workItem from="1632833835921" duration="6426000" />
+      <workItem from="1632909479439" duration="3990000" />
     </task>
     <servers />
   </component>
@@ -285,38 +299,38 @@
       <screen x="0" y="0" width="1493" height="893" />
     </state>
     <state x="530" y="225" key="FileChooserDialogImpl/0.0.1493.893@0.0.1493.893" timestamp="1631540769097" />
-    <state width="1002" height="424" key="GridCell.Tab.0.bottom" timestamp="1632843761014">
+    <state width="1002" height="169" key="GridCell.Tab.0.bottom" timestamp="1632919555819">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1002" height="424" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1632843761014" />
-    <state width="1002" height="424" key="GridCell.Tab.0.center" timestamp="1632843761014">
+    <state width="1002" height="169" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1632919555819" />
+    <state width="1002" height="169" key="GridCell.Tab.0.center" timestamp="1632919555819">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1002" height="424" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1632843761014" />
-    <state width="1002" height="424" key="GridCell.Tab.0.left" timestamp="1632843761013">
+    <state width="1002" height="169" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1632919555819" />
+    <state width="1002" height="169" key="GridCell.Tab.0.left" timestamp="1632919555819">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1002" height="424" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1632843761013" />
-    <state width="1002" height="424" key="GridCell.Tab.0.right" timestamp="1632843761014">
+    <state width="1002" height="169" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1632919555819" />
+    <state width="1002" height="169" key="GridCell.Tab.0.right" timestamp="1632919555819">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1002" height="424" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1632843761014" />
-    <state width="1002" height="424" key="GridCell.Tab.1.bottom" timestamp="1632843761014">
+    <state width="1002" height="169" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1632919555819" />
+    <state width="1002" height="169" key="GridCell.Tab.1.bottom" timestamp="1632919555819">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1002" height="424" key="GridCell.Tab.1.bottom/0.0.1493.893@0.0.1493.893" timestamp="1632843761014" />
-    <state width="1002" height="424" key="GridCell.Tab.1.center" timestamp="1632843761014">
+    <state width="1002" height="169" key="GridCell.Tab.1.bottom/0.0.1493.893@0.0.1493.893" timestamp="1632919555819" />
+    <state width="1002" height="169" key="GridCell.Tab.1.center" timestamp="1632919555819">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1002" height="424" key="GridCell.Tab.1.center/0.0.1493.893@0.0.1493.893" timestamp="1632843761014" />
-    <state width="1002" height="424" key="GridCell.Tab.1.left" timestamp="1632843761014">
+    <state width="1002" height="169" key="GridCell.Tab.1.center/0.0.1493.893@0.0.1493.893" timestamp="1632919555819" />
+    <state width="1002" height="169" key="GridCell.Tab.1.left" timestamp="1632919555819">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1002" height="424" key="GridCell.Tab.1.left/0.0.1493.893@0.0.1493.893" timestamp="1632843761014" />
-    <state width="1002" height="424" key="GridCell.Tab.1.right" timestamp="1632843761014">
+    <state width="1002" height="169" key="GridCell.Tab.1.left/0.0.1493.893@0.0.1493.893" timestamp="1632919555819" />
+    <state width="1002" height="169" key="GridCell.Tab.1.right" timestamp="1632919555819">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1002" height="424" key="GridCell.Tab.1.right/0.0.1493.893@0.0.1493.893" timestamp="1632843761014" />
+    <state width="1002" height="169" key="GridCell.Tab.1.right/0.0.1493.893@0.0.1493.893" timestamp="1632919555819" />
     <state x="278" y="102" key="Maven.ArtifactSearchDialog" timestamp="1631540266821">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
@@ -333,10 +347,10 @@
       <screen x="0" y="0" width="1493" height="893" />
     </state>
     <state x="253" y="43" key="SettingsEditor/0.0.1493.893@0.0.1493.893" timestamp="1631631917511" />
-    <state x="62" y="111" key="new project wizard" timestamp="1632579390065">
+    <state x="62" y="111" key="new project wizard" timestamp="1632917647649">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state x="62" y="111" key="new project wizard/0.0.1493.893@0.0.1493.893" timestamp="1632579390065" />
+    <state x="62" y="111" key="new project wizard/0.0.1493.893@0.0.1493.893" timestamp="1632917647649" />
     <state x="404" y="204" key="run.anything.popup" timestamp="1632570000782">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
