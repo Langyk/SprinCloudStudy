@@ -33,8 +33,8 @@ public class PaymentService {
     })
     public String paymentInfo_TimeOut(Integer id)
     {
-        int expNum=10/0;
-//        try { TimeUnit.SECONDS.sleep(5); } catch (InterruptedException e) { e.printStackTrace(); }
+//        int expNum=10/0;
+        try { TimeUnit.SECONDS.sleep(5); } catch (InterruptedException e) { e.printStackTrace(); }
         return "线程池:"+Thread.currentThread().getName()+"paymentInfo_TimeOut,id: "+id+"\t"+"O(∩_∩)O，耗费3秒";
     }
 
