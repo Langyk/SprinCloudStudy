@@ -1,0 +1,4 @@
+D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-consumer-feign-hystrix-order80\src\main\java\com\simon\springcloud\controller\OrderHystirxController.java
+D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-consumer-feign-hystrix-order80\src\main\java\com\simon\springcloud\service\PaymentHystrixService.java
+D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-consumer-feign-hystrix-order80\src\main\java\com\simon\springcloud\service\PaymentFallbackService.java
+D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-consumer-feign-hystrix-order80\src\main\java\com\simon\springcloud\OrderHystrixMain80.java
