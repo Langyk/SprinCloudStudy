@@ -23,17 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66527a0c-1c34-4af3-9098-079b6d9e8846" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/cloud-consumer-feign-hystrix-order80.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/simon/springcloud/OrderHystrixMain80.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/simon/springcloud/controller/OrderHystirxController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/simon/springcloud/service/PaymentHystrixService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/simon/springcloud/PaymentHystrixMain8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/simon/springcloud/PaymentHystrixMain8001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/simon/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/simon/springcloud/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/simon/springcloud/PaymentHystrixMain8001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/simon/springcloud/PaymentHystrixMain8001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/simon/springcloud/service/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/simon/springcloud/service/PaymentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/cloud-provider-hystrix-payment8001-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/cloud-provider-hystrix-payment8001-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +118,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.OrderHystrixMain80">
+  <component name="RunManager" selected="Spring Boot.PaymentHystrixMain8001">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -246,8 +241,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.OrderHystrixMain80" />
         <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
+        <item itemvalue="Spring Boot.OrderHystrixMain80" />
         <item itemvalue="Spring Boot.PaymentMain8001" />
         <item itemvalue="Spring Boot.OrderFeignMain80" />
         <item itemvalue="Spring Boot.PaymentMain8002" />
@@ -279,7 +274,7 @@
       <workItem from="1632750152521" duration="5052000" />
       <workItem from="1632833835921" duration="6426000" />
       <workItem from="1632909479439" duration="9241000" />
-      <workItem from="1633053001026" duration="3329000" />
+      <workItem from="1633053001026" duration="4811000" />
     </task>
     <servers />
   </component>
@@ -307,38 +302,38 @@
       <screen x="0" y="0" width="1493" height="893" />
     </state>
     <state x="530" y="225" key="FileChooserDialogImpl/0.0.1493.893@0.0.1493.893" timestamp="1631540769097" />
-    <state width="1072" height="200" key="GridCell.Tab.0.bottom" timestamp="1633057184356">
+    <state width="1072" height="98" key="GridCell.Tab.0.bottom" timestamp="1633059245501">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1072" height="200" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1633057184356" />
-    <state width="1072" height="200" key="GridCell.Tab.0.center" timestamp="1633057184356">
+    <state width="1072" height="98" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1633059245501" />
+    <state width="1072" height="98" key="GridCell.Tab.0.center" timestamp="1633059245501">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1072" height="200" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1633057184356" />
-    <state width="1072" height="200" key="GridCell.Tab.0.left" timestamp="1633057184356">
+    <state width="1072" height="98" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1633059245501" />
+    <state width="1072" height="98" key="GridCell.Tab.0.left" timestamp="1633059245501">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1072" height="200" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1633057184356" />
-    <state width="1072" height="200" key="GridCell.Tab.0.right" timestamp="1633057184356">
+    <state width="1072" height="98" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1633059245501" />
+    <state width="1072" height="98" key="GridCell.Tab.0.right" timestamp="1633059245501">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1072" height="200" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1633057184356" />
-    <state width="1072" height="200" key="GridCell.Tab.1.bottom" timestamp="1633057184356">
+    <state width="1072" height="98" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1633059245501" />
+    <state width="1072" height="98" key="GridCell.Tab.1.bottom" timestamp="1633059245501">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1072" height="200" key="GridCell.Tab.1.bottom/0.0.1493.893@0.0.1493.893" timestamp="1633057184356" />
-    <state width="1072" height="200" key="GridCell.Tab.1.center" timestamp="1633057184356">
+    <state width="1072" height="98" key="GridCell.Tab.1.bottom/0.0.1493.893@0.0.1493.893" timestamp="1633059245501" />
+    <state width="1072" height="98" key="GridCell.Tab.1.center" timestamp="1633059245501">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1072" height="200" key="GridCell.Tab.1.center/0.0.1493.893@0.0.1493.893" timestamp="1633057184356" />
-    <state width="1072" height="200" key="GridCell.Tab.1.left" timestamp="1633057184356">
+    <state width="1072" height="98" key="GridCell.Tab.1.center/0.0.1493.893@0.0.1493.893" timestamp="1633059245501" />
+    <state width="1072" height="98" key="GridCell.Tab.1.left" timestamp="1633059245501">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1072" height="200" key="GridCell.Tab.1.left/0.0.1493.893@0.0.1493.893" timestamp="1633057184356" />
-    <state width="1072" height="200" key="GridCell.Tab.1.right" timestamp="1633057184356">
+    <state width="1072" height="98" key="GridCell.Tab.1.left/0.0.1493.893@0.0.1493.893" timestamp="1633059245501" />
+    <state width="1072" height="98" key="GridCell.Tab.1.right" timestamp="1633059245501">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1072" height="200" key="GridCell.Tab.1.right/0.0.1493.893@0.0.1493.893" timestamp="1633057184356" />
+    <state width="1072" height="98" key="GridCell.Tab.1.right/0.0.1493.893@0.0.1493.893" timestamp="1633059245501" />
     <state x="278" y="102" key="Maven.ArtifactSearchDialog" timestamp="1631540266821">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
