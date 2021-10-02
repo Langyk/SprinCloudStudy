@@ -23,7 +23,7 @@ public class GateWayConfig {
     {
         RouteLocatorBuilder.Builder routes = builder.routes();
 
-        routes.route("path_route_simon", r -> r.path("/guonei").uri("http://news.baidu.com/guonei")).build();
+        routes.route("path_route_simon", r -> r.path("/guonei").uri("http://news.baidu.com")).build();
 
         return routes.build();
 
@@ -32,7 +32,7 @@ public class GateWayConfig {
     public RouteLocator customRouteLocator2(RouteLocatorBuilder builder)
     {
         RouteLocatorBuilder.Builder routes = builder.routes();
-        routes.route("path_route_simon2", r -> r.path("/guoji").uri("http://news.baidu.com/guoji")).build();
+        routes.route("path_route_simon2", r -> r.path("/guoji").uri("http://news.baidu.com")).build();
         return routes.build();
     }
 }
