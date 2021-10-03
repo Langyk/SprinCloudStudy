@@ -1,2 +1,3 @@
+com\simon\springcloud\config\MyLogGateWayFilter.class
 com\simon\springcloud\config\GateWayConfig.class
 com\simon\springcloud\GateWayMain9527.class
