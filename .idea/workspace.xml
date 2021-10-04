@@ -23,7 +23,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66527a0c-1c34-4af3-9098-079b6d9e8846" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_context_log4j2_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_http_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_httpasyncclient_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_httpclient_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_jms_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_kafka_clients_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_kafka_streams_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_messaging_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_rpc_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_servlet_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_rabbit_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_web_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_webmvc_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_metrics_micrometer_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_activemq_client_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_amqp_client_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_kafka_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_zipkin2_zipkin_2_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_core_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_zipkin_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_sleuth_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zipkin_2_2_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/simon/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/simon/springcloud/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/simon/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/simon/springcloud/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/cloud-provider-payment8001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/cloud-provider-payment8001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/simon/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/simon/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +148,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.StreamMQMain8803">
+  <component name="RunManager" selected="Spring Boot.MainApp80">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -163,6 +197,13 @@
     <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-eureka-server7002" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.EurekaMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayMain9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-gateway-gateway9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.GateWayMain9527" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -321,7 +362,7 @@
       <workItem from="1633053001026" duration="9279000" />
       <workItem from="1633076209033" duration="9519000" />
       <workItem from="1633134044232" duration="15552000" />
-      <workItem from="1633236858595" duration="11671000" />
+      <workItem from="1633236858595" duration="13045000" />
     </task>
     <servers />
   </component>
@@ -353,38 +394,38 @@
       <screen x="0" y="0" width="1493" height="893" />
     </state>
     <state x="530" y="225" key="FileChooserDialogImpl/0.0.1493.893@0.0.1493.893" timestamp="1631540769097" />
-    <state width="1158" height="273" key="GridCell.Tab.0.bottom" timestamp="1633312531412">
+    <state width="1158" height="342" key="GridCell.Tab.0.bottom" timestamp="1633315520264">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1158" height="273" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1633312531412" />
-    <state width="1158" height="273" key="GridCell.Tab.0.center" timestamp="1633312531412">
+    <state width="1158" height="342" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1633315520264" />
+    <state width="1158" height="342" key="GridCell.Tab.0.center" timestamp="1633315520264">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1158" height="273" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1633312531412" />
-    <state width="1158" height="273" key="GridCell.Tab.0.left" timestamp="1633312531412">
+    <state width="1158" height="342" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1633315520264" />
+    <state width="1158" height="342" key="GridCell.Tab.0.left" timestamp="1633315520264">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1158" height="273" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1633312531412" />
-    <state width="1158" height="273" key="GridCell.Tab.0.right" timestamp="1633312531412">
+    <state width="1158" height="342" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1633315520264" />
+    <state width="1158" height="342" key="GridCell.Tab.0.right" timestamp="1633315520264">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1158" height="273" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1633312531412" />
-    <state width="1158" height="273" key="GridCell.Tab.1.bottom" timestamp="1633312531412">
+    <state width="1158" height="342" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1633315520264" />
+    <state width="1158" height="342" key="GridCell.Tab.1.bottom" timestamp="1633315520264">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1158" height="273" key="GridCell.Tab.1.bottom/0.0.1493.893@0.0.1493.893" timestamp="1633312531412" />
-    <state width="1158" height="273" key="GridCell.Tab.1.center" timestamp="1633312531412">
+    <state width="1158" height="342" key="GridCell.Tab.1.bottom/0.0.1493.893@0.0.1493.893" timestamp="1633315520264" />
+    <state width="1158" height="342" key="GridCell.Tab.1.center" timestamp="1633315520264">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1158" height="273" key="GridCell.Tab.1.center/0.0.1493.893@0.0.1493.893" timestamp="1633312531412" />
-    <state width="1158" height="273" key="GridCell.Tab.1.left" timestamp="1633312531412">
+    <state width="1158" height="342" key="GridCell.Tab.1.center/0.0.1493.893@0.0.1493.893" timestamp="1633315520264" />
+    <state width="1158" height="342" key="GridCell.Tab.1.left" timestamp="1633315520264">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1158" height="273" key="GridCell.Tab.1.left/0.0.1493.893@0.0.1493.893" timestamp="1633312531412" />
-    <state width="1158" height="273" key="GridCell.Tab.1.right" timestamp="1633312531412">
+    <state width="1158" height="342" key="GridCell.Tab.1.left/0.0.1493.893@0.0.1493.893" timestamp="1633315520264" />
+    <state width="1158" height="342" key="GridCell.Tab.1.right" timestamp="1633315520264">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1158" height="273" key="GridCell.Tab.1.right/0.0.1493.893@0.0.1493.893" timestamp="1633312531412" />
+    <state width="1158" height="342" key="GridCell.Tab.1.right/0.0.1493.893@0.0.1493.893" timestamp="1633315520264" />
     <state x="278" y="102" key="Maven.ArtifactSearchDialog" timestamp="1631540266821">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
