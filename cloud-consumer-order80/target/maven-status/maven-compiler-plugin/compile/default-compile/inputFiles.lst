@@ -1,3 +1,6 @@
 D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-consumer-order80\src\main\java\com\simon\springcloud\controller\OrderController.java
 D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-consumer-order80\src\main\java\com\simon\springcloud\config\ApplicationContextConfig.java
+D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-consumer-order80\src\main\java\com\simon\springcloud\lb\MyLB.java
 D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-consumer-order80\src\main\java\com\simon\springcloud\MainApp80.java
+D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-consumer-order80\src\main\java\com\simon\myrule\MySelfRule.java
+D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-consumer-order80\src\main\java\com\simon\springcloud\lb\LoadBalancer.java
