@@ -1,3 +1,4 @@
 D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-consumer-feign-order80\src\main\java\com\simon\springcloud\service\PaymentFeignService.java
+D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-consumer-feign-order80\src\main\java\com\simon\springcloud\config\FeignConfig.java
 D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-consumer-feign-order80\src\main\java\com\simon\springcloud\controller\OrderFeignController.java
 D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-consumer-feign-order80\src\main\java\com\simon\springcloud\OrderFeignMain80.java
