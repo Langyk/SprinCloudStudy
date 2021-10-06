@@ -23,11 +23,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66527a0c-1c34-4af3-9098-079b6d9e8846" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/cloudalibaba-consumer-nacos-order84.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/simon/springcloud/OrderNacosMain84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/simon/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/simon/springcloud/controller/CircleBreakerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/simon/springcloud/service/PaymentFallbackService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/simon/springcloud/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/cloudalibaba-provider-payment9003.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/simon/springcloud/PaymentMain9003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/simon/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/cloudalibaba-provider-payment9004.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/java/com/simon/springcloud/PaymentMain9004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/java/com/simon/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/simon/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/simon/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/simon/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/simon/springcloud/service/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/simon/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/simon/springcloud/controller/PaymentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/simon/springcloud/service/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/simon/springcloud/service/PaymentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/cloud-consumer-feign-hystrix-order80-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/cloud-consumer-feign-hystrix-order80-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/cloud-consumer-feign-order80-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/cloud-consumer-feign-order80-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/cloud-gateway-gateway9527-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/cloud-gateway-gateway9527-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/target/cloud-providerconsul-payment8006-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/target/cloud-providerconsul-payment8006-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/cloudalibaba-sentinel-service8401.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/cloudalibaba-sentinel-service8401.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/simon/springcloud/controller/FlowLimitController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/simon/springcloud/controller/FlowLimitController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/target/classes/com/simon/springcloud/controller/FlowLimitController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/target/classes/com/simon/springcloud/controller/FlowLimitController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/target/cloudalibaba-sentinel-service8401-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/target/cloudalibaba-sentinel-service8401-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +86,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../DevelopEnvironment/maven/apache-maven-3.6.3" />
+        <option name="mavenHome" value="D:\DevelopEnvironment\maven\apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\DevelopEnvironment\maven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -90,7 +123,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/mapper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/resources" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -100,14 +133,17 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.simon.springcloud.controller" />
-      <recent name="com.simon.springcloud.service.impl" />
+      <recent name="com.simon.springcloud" />
       <recent name="com.simon.springcloud.service" />
+      <recent name="com.simon.springcloud.service.impl" />
       <recent name="com.simon.springcloud.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloudalibaba-provider-payment9004\src\main\resources" />
+      <recent name="D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloudalibaba-provider-payment9002\src\main\resources" />
+      <recent name="D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-config-client-3366\src\main\resources" />
       <recent name="D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-provider-payment8002\src\main\resources\mapper" />
       <recent name="D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-provider-payment8002\src\main\resources" />
-      <recent name="D:\SimonStudy\Learning Notes\Java\SpringCloud\Conding\studycloud\cloud-eureka-server7002\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -117,7 +153,20 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.OrderHystrixMain80">
+  <component name="RunManager" selected="Spring Boot.MainApp8401">
+    <configuration name="PaymentMain9004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simon.springcloud.PaymentMain9004" />
+      <module name="cloudalibaba-provider-payment9004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simon.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -125,6 +174,27 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigCenterMain3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-center-3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.ConfigCenterMain3344" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientMain3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client-3355" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.ConfigClientMain3355" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientMain3366" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client-3366" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.ConfigClientMain3366" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -143,6 +213,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GateWayMain9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-gateway-gateway9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.GateWayMain9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-hystrix-dashboard9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.HystrixDashboardMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.MainApp80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-sentinel-service8401" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simon.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.MainApp8401" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosConfigClientMain3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-config-nacos-client3377" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simon.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.NacosConfigClientMain3377" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OrderConsulMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumerconsul-order80" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.OrderConsulMain80" />
@@ -150,28 +267,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumer-feign-order80" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.simon.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.OrderFeignMain80" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderHystrixMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderHystrixMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumer-feign-hystrix-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.OrderHystrixMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderNacosMain83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-consumer-nacos-order83" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.simon.springcloud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.OrderHystrixMain80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.OrderNacosMain83" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderNacosMain84" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-consumer-nacos-order84" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.OrderNacosMain84" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -183,40 +308,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-provider-hystrix-payment8001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.simon.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.PaymentHystrixMain8001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-provider-payment8001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.simon.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.PaymentMain8001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-provider-payment8002" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.simon.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.PaymentMain8002" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -236,13 +343,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PaymentMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.PaymentMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.PaymentMain9002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-provider-payment9003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simon.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.PaymentMain9003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.PaymentMain9004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8801" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-provider8801" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.StreamMQMain8801" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8802" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-consumer8802" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.StreamMQMain8802" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8803" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-consumer8803" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.StreamMQMain8803" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
-        <item itemvalue="Spring Boot.OrderHystrixMain80" />
-        <item itemvalue="Spring Boot.PaymentMain8001" />
-        <item itemvalue="Spring Boot.OrderFeignMain80" />
-        <item itemvalue="Spring Boot.PaymentMain8002" />
+        <item itemvalue="Spring Boot.MainApp8401" />
+        <item itemvalue="Spring Boot.PaymentMain9003" />
+        <item itemvalue="Application.PaymentMain9004" />
+        <item itemvalue="Spring Boot.NacosConfigClientMain3377" />
+        <item itemvalue="Spring Boot.OrderNacosMain83" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +434,9 @@
       <workItem from="1632833835921" duration="6426000" />
       <workItem from="1632909479439" duration="9241000" />
       <workItem from="1633053001026" duration="9279000" />
-      <workItem from="1633076209033" duration="4489000" />
+      <workItem from="1633076209033" duration="9519000" />
+      <workItem from="1633134044232" duration="15552000" />
+      <workItem from="1633236858595" duration="35678000" />
     </task>
     <servers />
   </component>
@@ -292,46 +456,50 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="525" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1633076679911">
+    <state x="374" y="126" key="#Inspections" timestamp="1633228840824">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state x="525" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1493.893@0.0.1493.893" timestamp="1633076679911" />
+    <state x="374" y="126" key="#Inspections/0.0.1493.893@0.0.1493.893" timestamp="1633228840824" />
+    <state x="525" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1633223313455">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="525" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1493.893@0.0.1493.893" timestamp="1633223313455" />
     <state x="530" y="225" key="FileChooserDialogImpl" timestamp="1631540769097">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
     <state x="530" y="225" key="FileChooserDialogImpl/0.0.1493.893@0.0.1493.893" timestamp="1631540769097" />
-    <state width="1144" height="299" key="GridCell.Tab.0.bottom" timestamp="1633082066251">
+    <state width="1158" height="188" key="GridCell.Tab.0.bottom" timestamp="1633499819457">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1144" height="299" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1633082066251" />
-    <state width="1144" height="299" key="GridCell.Tab.0.center" timestamp="1633082066251">
+    <state width="1158" height="188" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1633499819457" />
+    <state width="1158" height="188" key="GridCell.Tab.0.center" timestamp="1633499819457">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1144" height="299" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1633082066251" />
-    <state width="1144" height="299" key="GridCell.Tab.0.left" timestamp="1633082066251">
+    <state width="1158" height="188" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1633499819457" />
+    <state width="1158" height="188" key="GridCell.Tab.0.left" timestamp="1633499819456">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1144" height="299" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1633082066251" />
-    <state width="1144" height="299" key="GridCell.Tab.0.right" timestamp="1633082066251">
+    <state width="1158" height="188" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1633499819456" />
+    <state width="1158" height="188" key="GridCell.Tab.0.right" timestamp="1633499819457">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1144" height="299" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1633082066251" />
-    <state width="1144" height="299" key="GridCell.Tab.1.bottom" timestamp="1633082066251">
+    <state width="1158" height="188" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1633499819457" />
+    <state width="1158" height="188" key="GridCell.Tab.1.bottom" timestamp="1633499819457">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1144" height="299" key="GridCell.Tab.1.bottom/0.0.1493.893@0.0.1493.893" timestamp="1633082066251" />
-    <state width="1144" height="299" key="GridCell.Tab.1.center" timestamp="1633082066251">
+    <state width="1158" height="188" key="GridCell.Tab.1.bottom/0.0.1493.893@0.0.1493.893" timestamp="1633499819457" />
+    <state width="1158" height="188" key="GridCell.Tab.1.center" timestamp="1633499819457">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1144" height="299" key="GridCell.Tab.1.center/0.0.1493.893@0.0.1493.893" timestamp="1633082066251" />
-    <state width="1144" height="299" key="GridCell.Tab.1.left" timestamp="1633082066251">
+    <state width="1158" height="188" key="GridCell.Tab.1.center/0.0.1493.893@0.0.1493.893" timestamp="1633499819457" />
+    <state width="1158" height="188" key="GridCell.Tab.1.left" timestamp="1633499819457">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1144" height="299" key="GridCell.Tab.1.left/0.0.1493.893@0.0.1493.893" timestamp="1633082066251" />
-    <state width="1144" height="299" key="GridCell.Tab.1.right" timestamp="1633082066251">
+    <state width="1158" height="188" key="GridCell.Tab.1.left/0.0.1493.893@0.0.1493.893" timestamp="1633499819457" />
+    <state width="1158" height="188" key="GridCell.Tab.1.right" timestamp="1633499819457">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1144" height="299" key="GridCell.Tab.1.right/0.0.1493.893@0.0.1493.893" timestamp="1633082066251" />
+    <state width="1158" height="188" key="GridCell.Tab.1.right/0.0.1493.893@0.0.1493.893" timestamp="1633499819457" />
     <state x="278" y="102" key="Maven.ArtifactSearchDialog" timestamp="1631540266821">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
@@ -348,10 +516,10 @@
       <screen x="0" y="0" width="1493" height="893" />
     </state>
     <state x="253" y="43" key="SettingsEditor/0.0.1493.893@0.0.1493.893" timestamp="1633056256882" />
-    <state x="62" y="111" key="new project wizard" timestamp="1633055976531">
+    <state x="62" y="111" key="new project wizard" timestamp="1633492935031">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state x="62" y="111" key="new project wizard/0.0.1493.893@0.0.1493.893" timestamp="1633055976531" />
+    <state x="62" y="111" key="new project wizard/0.0.1493.893@0.0.1493.893" timestamp="1633492935031" />
     <state x="404" y="204" key="run.anything.popup" timestamp="1632570000782">
       <screen x="0" y="0" width="1493" height="893" />
     </state>

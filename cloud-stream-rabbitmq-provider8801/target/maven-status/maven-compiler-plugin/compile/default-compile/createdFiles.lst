@@ -1,0 +1,4 @@
+com\simon\springcloud\service\IMessageProvider.class
+com\simon\springcloud\controller\SendMessageController.class
+com\simon\springcloud\StreamMQMain8801.class
+com\simon\springcloud\service\impl\MessageProviderImpl.class
