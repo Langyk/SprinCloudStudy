@@ -2,6 +2,8 @@ package com.simon.springcloud.controller;
 
 import com.alibaba.csp.sentinel.annotation.SentinelResource;
 import com.alibaba.csp.sentinel.slots.block.BlockException;
+import com.simon.springcloud.entities.CommonResult;
+import com.simon.springcloud.entities.Payment;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -55,4 +57,27 @@ public class FlowLimitController {
         return "------deal_testHotKey,o(╥﹏╥)o";
     }
 
+    /**
+     *自定义兜底方法
+     */
+    @GetMapping("/byResource")
+    @SentinelResource(value = "byResource",blockHandler = "handleException")
+    public CommonResult byResource()
+    {
+        return new CommonResult(200,"按资源名称限流测试OK",new Payment(2020L,"serial001"));
+    }
+    public CommonResult handleException(BlockException exception)
+    {
+        return new CommonResult(444,exception.getClass().getCanonicalName()+"\t 服务不可用");
+    }
+
+    /**
+     *系统自带的兜底方法
+     */
+    @GetMapping("/rateLimit/byUrl")
+    @SentinelResource(value = "byUrl")
+    public CommonResult byUrl()
+    {
+        return new CommonResult(200,"按url限流测试OK",new Payment(2020L,"serial002"));
+    }
 }

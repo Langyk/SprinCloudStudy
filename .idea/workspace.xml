@@ -24,6 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="66527a0c-1c34-4af3-9098-079b6d9e8846" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/simon/springcloud/controller/FlowLimitController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/simon/springcloud/controller/FlowLimitController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -327,6 +328,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamMQMain8803" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-consumer8803" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springcloud.StreamMQMain8803" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.MainApp8401" />
@@ -365,7 +373,7 @@
       <workItem from="1633053001026" duration="9279000" />
       <workItem from="1633076209033" duration="9519000" />
       <workItem from="1633134044232" duration="15552000" />
-      <workItem from="1633236858595" duration="28712000" />
+      <workItem from="1633236858595" duration="30314000" />
     </task>
     <servers />
   </component>
@@ -445,10 +453,10 @@
       <screen x="0" y="0" width="1493" height="893" />
     </state>
     <state x="253" y="43" key="SettingsEditor/0.0.1493.893@0.0.1493.893" timestamp="1633056256882" />
-    <state x="62" y="111" key="new project wizard" timestamp="1633445316907">
+    <state x="62" y="111" key="new project wizard" timestamp="1633489099400">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state x="62" y="111" key="new project wizard/0.0.1493.893@0.0.1493.893" timestamp="1633445316907" />
+    <state x="62" y="111" key="new project wizard/0.0.1493.893@0.0.1493.893" timestamp="1633489099400" />
     <state x="404" y="204" key="run.anything.popup" timestamp="1632570000782">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
